@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pranavk875
+- 👋 Hi, I’m Pranav Kulkarni 
 - 👀 I’m interested in FrontEnd Development
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on software development companies
